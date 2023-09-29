@@ -4,3 +4,4 @@ green
 yellow
 bia berim dasht
 hala
+dota
